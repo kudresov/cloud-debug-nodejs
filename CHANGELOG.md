@@ -1,5 +1,22 @@
 # Node.js Agent for Google Cloud Debug ChangeLog
 
+## [5.0.0](https://www.github.com/googleapis/cloud-debug-nodejs/compare/v4.2.2...v5.0.0) (2020-04-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* require node 10 in engines field (#852)
+
+### Features
+
+* require node 10 in engines field ([#852](https://www.github.com/googleapis/cloud-debug-nodejs/issues/852)) ([01dc0e2](https://www.github.com/googleapis/cloud-debug-nodejs/commit/01dc0e263a57914e7f7320feac950dfedeeb7099))
+
+
+### Bug Fixes
+
+* **deps:** update dependency @google-cloud/common to v3 ([#853](https://www.github.com/googleapis/cloud-debug-nodejs/issues/853)) ([79bbc9c](https://www.github.com/googleapis/cloud-debug-nodejs/commit/79bbc9c9ad9c763166e6a96ba254c8521d485f12))
+* **deps:** update dependency gcp-metadata to v4 ([#844](https://www.github.com/googleapis/cloud-debug-nodejs/issues/844)) ([8b4040e](https://www.github.com/googleapis/cloud-debug-nodejs/commit/8b4040e933676535fb75c135be931c70fc8bad37))
+
 ### [4.2.2](https://www.github.com/googleapis/cloud-debug-nodejs/compare/v4.2.1...v4.2.2) (2020-01-23)
 
 
